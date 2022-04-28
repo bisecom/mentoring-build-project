@@ -15,11 +15,11 @@ build project
 ```
 mvn clean install
 ```
-for start web-app...
+to start web-app
 ```
 mvn jetty:run
 ```
-It runs application for web-app via host [http://localhost:8080](http://localhost:8080)
+It runs application for web-app via host [http://localhost:8082](http://localhost:8082)
 
 ## Build application: Gradle
 start only tests
