@@ -1,7 +1,7 @@
 # Project Builder
 Test build project with use Maven and Gradle scripts
 
-## Requirements
+## Requirements:
 * JDK 11
 * Apache Maven
 * Gradle
